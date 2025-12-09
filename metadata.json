@@ -1,0 +1,7 @@
+{
+  "name": "Orion Assistant",
+  "description": "A lightweight, multi-agent AI copilot that routes natural-language requests to specialized tools using Gemini 3 Pro reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
